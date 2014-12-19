@@ -7,7 +7,10 @@
 .part > div { margin: 0 auto; padding:100px 0;}
 #about{background-color:#FA9C86;margin-top: 50px}
 #bio{background-color:#3289AD}
+#picture1{background-image: url(images/jello.jpg); height: 686px;}
 #music{background-color:#35B57A}
+#picture2{background-image: url(images/drink.jpg); height: 686px;}
+
 #matthew{background-color:#EC5A9B}
 .face{width: 40%; height: 100%; maring:0 50px}
 .face img{width:220px;float:right;}
