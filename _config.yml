@@ -7,7 +7,7 @@ description: A meetup group open to professionals and students interested in Mac
 
 # if it's an external image, update below for true
 # better with square images
-picture: assets/images/mld_logo.png
+picture: /assets/images/mld_logo.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
