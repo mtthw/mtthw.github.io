@@ -19,7 +19,7 @@ url: https://nicholma.github.io
 logo-url: https://meetup.com/Machine-Learning-Dublin
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:year/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -69,9 +69,8 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
 
-# if you don't need "about" or "blog", comment them out below
+projects: false
 about: false
 blog: false
 

@@ -23,6 +23,10 @@
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
+        {% if site.meetup %}
+            {% include meetup-link.html %}
+        {% endif %}
+
         {% include social-links.html %}
     </header>
 {% endif %}
