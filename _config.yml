@@ -92,9 +92,13 @@ post-advance-links: [blog]
 # do you want some animations?
 animation: true
 
+jekyll-archives:
+  enabled: [year]
+
 gems:
   - jekyll-seo-tag
   - jekyll-gist
+  - jekyll-archives
 
 jekyll-mentions:
     base_url: https://github.com
