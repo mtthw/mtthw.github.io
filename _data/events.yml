@@ -1,0 +1,14 @@
+- title: event 1
+  talks:
+  - title: talk 1
+    speaker: foo
+  - title: talk 2
+    speaker: bar
+
+- title: event 2
+  talks:
+  - title: talk 1
+    speaker: foo
+  - title: talk 2
+    speaker: bar
+
